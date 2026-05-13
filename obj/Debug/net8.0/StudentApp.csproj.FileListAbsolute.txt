@@ -134,3 +134,4 @@
 /Users/sri/Documents/UPGRAD/2_Class_Practice/Day-62/StudentApp/obj/Debug/net8.0/StudentApp.pdb
 /Users/sri/Documents/UPGRAD/2_Class_Practice/Day-62/StudentApp/obj/Debug/net8.0/StudentApp.genruntimeconfig.cache
 /Users/sri/Documents/UPGRAD/2_Class_Practice/Day-62/StudentApp/obj/Debug/net8.0/ref/StudentApp.dll
+/Users/sri/Documents/UPGRAD/2_Class_Practice/Day-62/StudentApp/obj/Debug/net8.0/StudentApp.sourcelink.json
